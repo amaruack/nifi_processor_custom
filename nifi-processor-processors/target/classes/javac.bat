@@ -1,0 +1,1 @@
+cmd.exe /X /C ""C:\Program Files\Java\jdk1.8.0_171\jre\..\bin\javac.exe" @D:/02.STSWork/99.TEST/nifi_processor/customProcessor/nifi-processor-processors/target/classes/org.codehaus.plexus.compiler.javac.JavacCompiler6525018347258196573arguments"

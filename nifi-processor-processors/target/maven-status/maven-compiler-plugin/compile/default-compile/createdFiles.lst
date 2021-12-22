@@ -1,0 +1,4 @@
+com\eseict\processors\processor\MyProcessor.class
+com\eseict\processors\processor\MyProcessor$1.class
+javac.bat
+org.codehaus.plexus.compiler.javac.JavacCompiler6525018347258196573arguments
